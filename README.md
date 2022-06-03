@@ -11,8 +11,8 @@ Some topics about me:
 - ⚡ Fun fact: I'm the only 'Rendryki' with that exact calligraphy in Brazil, and probably the World.
 
 ### My social medias:
-<a href="https://www.linkedin.com/in/rendryki-melo/" target="_blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/pics/linkedin%20logo.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.instagram.com/rendryki_/" target="_blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/pics/linkedin%20logo.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/rendryki-melo/" target="_blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/pics/linkedinlogo.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.instagram.com/rendryki_/" target="_blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/pics/insta%20logo.png" alt="Instagram" width="30"></a>
 <a href="rendrykifelipesilva@gmail.com" target="_blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/pics/email%20logo.png" alt="Email" width="30"></a>
 
 <!--
