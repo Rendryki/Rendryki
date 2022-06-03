@@ -5,8 +5,12 @@ I'm a 18 years old development student. I'm at the beggining of my journey into 
 
 Some topics about me:
 - 🌱 I’m currently learning HTML5/CSS5!
-- 💻 I'm also learning JavaScript and Python.
+- 💻 I'm also learning JavaScript and Python!
+- 📚 I'm open to learn something new everyday!
 - 🏆 I'm a sports lover!
+- ⚡ Fun fact: I'm the only 'Rendryki' with that exact calligraphy in Brazil, and probably the World.
+
+### My social medias:
 
 <!--
 **Rendryki/Rendryki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
