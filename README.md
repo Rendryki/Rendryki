@@ -11,6 +11,7 @@ Some topics about me:
 - ⚡ Fun fact: I'm the only 'Rendryki' with that exact calligraphy in Brazil, and probably the World.
 
 ### My social medias:
+<a href="https://www.linkedin.com/in/rendryki-melo/" target="_blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/pics/linkedin%20logo.png" alt="LinkedIn" width="30"></a>
 
 <!--
 **Rendryki/Rendryki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
