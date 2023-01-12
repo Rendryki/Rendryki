@@ -13,7 +13,7 @@ Some topics about me:
 ### My social medias:
 <a href="https://www.linkedin.com/in/rendryki-melo/" target="blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/logos/linkedin%20logo.png" alt="LinkedIn" width="30"></a>
 <a href="https://www.instagram.com/rendryki_/" target="blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/logos/insta%20logo.png" alt="Instagram" width="30"></a>
-<a href="rendrykimelo.pro@gmail.com" target="blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/logos/email%20logo.png" alt="Email" width="30"></a>
+<a href="mailto:rendrykimelo.pro@gmail.com" target="blank"><img src="https://github.com/Rendryki/Rendryki/blob/main/logos/email%20logo.png" alt="Email" width="30"></a>
 
 <!--
 **Rendryki/Rendryki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
