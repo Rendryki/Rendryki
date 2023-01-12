@@ -5,7 +5,7 @@ I'm a 19 year old Information Systems student. I'm at the beggining of my journe
 
 Some topics about me:
 - 🌱 I’m currently learning JavaScript and its React library!
-- 💻 I also pretend to learn PHP and Python!
+- 💻 I also pretend to learn more about Mobile Development through React Native and Flutter!
 - 📚 I'm open to learn something new everyday!
 - 🏆 I'm a sports lover!
 - ⚡ Fun fact: I'm the only 'Rendryki' with that exact calligraphy in Brazil, and probably the World.
