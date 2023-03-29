@@ -12,10 +12,10 @@ I'm a 19 year old Information Systems student. I'm at the beggining of my journe
 ---------------------------------------------------------------
 
 <a href='https://github.com/Rendryki/github-readme-stats'> 
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=Rendryki&show_icons=true&theme=gotham' />
+  <img align="center" src='https://github-readme-stats-gamma-seven-40.vercel.app/api?username=Rendryki&show_icons=true&theme=gotham' />
 </a>
 <a href='https://github.com/Rendryki/github-readme-stats'> 
-  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Rendryki&langs_count=5&layout=compact' />
+  <img align="center" src='https://github-readme-stats-gamma-seven-40.vercel.app/api/top-langs/?username=Rendryki&langs_count=5&layout=compact' />
 </a>
 
 ---------------------------------------------------------------
