@@ -10,7 +10,7 @@ I'm a 19 year old Information Systems student. I'm at the beggining of my journe
 - ⚡ Fun fact: I'm the only 'Rendryki' with that exact calligraphy in Brazil, and probably the World! (Not gonna lie, I kinda like that).
 
 ---------------------------------------------------------------
-
+<!--
 <a href='https://github.com/Rendryki/github-readme-stats'> 
   <img align="center" src='https://github-readme-stats-gamma-seven-40.vercel.app/api?username=Rendryki&show_icons=true&theme=gotham' />
 </a>
@@ -19,7 +19,7 @@ I'm a 19 year old Information Systems student. I'm at the beggining of my journe
 </a>
 
 ---------------------------------------------------------------
-
+-->
 ### My mostly liked Technologies:
 <div>    
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />         
