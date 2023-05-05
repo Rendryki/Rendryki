@@ -24,10 +24,10 @@ I'm a 19 year old Information Systems student. I'm at the beggining of my journe
 <div>    
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />         
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />        
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />          
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />         
 </div>     
