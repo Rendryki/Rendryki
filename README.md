@@ -15,7 +15,7 @@ I'm a 19 year old Information Systems student. I'm at the beggining of my journe
   <img align="center" src='https://github-readme-stats-rendryki.vercel.app/api?username=Rendryki&show_icons=true&theme=gotham' />
 </a>
 <a href='https://github.com/Rendryki/github-readme-stats'> 
-  <img align="center" src='https://github-readme-stats-rendryki.vercel.app/api/top-langs/?username=Rendryki&langs_count=10&layout=compact&theme=gotham' />
+  <img align="center" src='https://github-readme-stats-rendryki.vercel.app/api/top-langs/?username=Rendryki&langs_count=5&layout=compact&theme=gotham' />
 </a>
 
 ---------------------------------------------------------------
