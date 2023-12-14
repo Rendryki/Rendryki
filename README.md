@@ -4,7 +4,7 @@
 I'm a 19 year old Information Systems student. I'm at the beggining of my journey into turning myself a developer, recently I've been focusing on learning the fundaments of Front End Development as a point of start in my academic/professional carreer. 
 
 - 🌱 I’m currently learning React and other JavaScript Libraryes and Frameworks, like Next.js 👨‍💻!
-- 📱 I also pretend to learn more about Backend Development!
+- 📱 I also pretend to learn more about Backend Development and Databases!
 - 📚 I'm open to learn something new everyday 🤓!
 - 🏆 I'm a sports lover ⚽🏈🏎!
 - ⚡ Fun fact: I'm the only 'Rendryki' with that exact calligraphy in Brazil, and probably the World! (Not gonna lie, I kinda like that).
