@@ -1,6 +1,9 @@
 # **Hi, guys!** 👋🏽
 
+## ***Currently, I'm giving a break in my developer career and IT studies. For personal reasons. I do intend to get back at where I stopped one day. See you soon!!!***
+
 ### A few things about me: 
+
 I'm a 19 year old Information Systems student. I'm at the beggining of my journey into turning myself a developer, recently I've been focusing on learning the fundaments of Front End Development as a point of start in my academic/professional carreer. 
 
 - 🌱 I’m currently learning React and other JavaScript Libraryes and Frameworks, like Next.js 👨‍💻!
